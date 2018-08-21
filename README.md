@@ -44,7 +44,7 @@ Now visit `http://[your-docker-host]:5050` in your browser. You can add the
 postgres database (hostname is `postgres`, password is `password`) to test
 if everything is working.
 
-![screenshot](https://raw.githubusercontent.com/strakhov/pgadmin4/master/pgadmin-screenshot.png)
+![screenshot](https://github.com/strakhov/pgadmin4-docker/blob/master/pgadmin-screenshot.png)
 
 ## Persistent data
 
